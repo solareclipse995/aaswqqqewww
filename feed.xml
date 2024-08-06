@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>SSA</title>
-    <link href="https://github.com/solareclipse995/aaswqqqewww/feed.xml" rel="self" />
-    <link href="https://github.com/solareclipse995/aaswqqqewww" />
+    <link href="https://solareclipse995.github.io/aaswqqqewww/feed.xml" rel="self" />
+    <link href="https://solareclipse995.github.io/aaswqqqewww" />
     <updated>2024-03-22T23:33:53+02:00</updated>
     <author>
         <name>Light</name>
     </author>
-    <id>https://github.com/solareclipse995/aaswqqqewww</id>
+    <id>https://solareclipse995.github.io/aaswqqqewww</id>
 
     <entry>
         <title>ju</title>
         <author>
             <name>Light</name>
         </author>
-        <link href="https://github.com/solareclipse995/aaswqqqewww/ju/"/>
-        <id>https://github.com/solareclipse995/aaswqqqewww/ju/</id>
+        <link href="https://solareclipse995.github.io/aaswqqqewww/ju/"/>
+        <id>https://solareclipse995.github.io/aaswqqqewww/ju/</id>
 
         <updated>2024-03-22T23:33:53+02:00</updated>
             <summary></summary>
